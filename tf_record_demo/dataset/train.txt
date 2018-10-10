@@ -1,0 +1,8 @@
+dog/1.jpg 0 11
+dog/2.jpg 1 12
+dog/3.jpg 2 13
+dog/4.jpg 3 14
+cat/1.jpg 4 15
+cat/2.jpg 5 16
+cat/3.jpg 6 17
+cat/4.jpg 7 18

@@ -3,9 +3,12 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/slim" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tensorflow_models_nets/slim" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/yolo_v3_tf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/verification_code" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/googlenet_cifar" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 2.7 (tensorflow-cpu-py27)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 2.7 (tensorflow-py27)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">

@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7a98f76-9a35-421e-931b-d8d1458075f4" name="Default" comment="" />
+    <list default="true" id="f7a98f76-9a35-421e-931b-d8d1458075f4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/create_tf_record_multi_label.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/dataset/record/train.tfrecords" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/dataset/record/val.tfrecords" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_net/my_net_l2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_net/my_net_predict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_net/utils/create_tf_record.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_net/utils/create_tf_record_multi_label.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nets_regression/tf_read_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tensorflow-learning-tutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tensorflow-learning-tutorials.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/alexnet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/alexnet_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/alexnet_train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/create_labels_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/create_tf_record.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/create_tfrecords.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/predict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/test/0-image_0003.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/test/1-image_0102.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/test/10-image_0810.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/test/11-image_0884.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/test/15-image_1207.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/test/16-image_1311.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/test/3-image_0241.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/test/8-image_0645.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/test_image/animal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/test_image/flower.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/test_image/guitar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/test_image/houses.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/train_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/train_val.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/utils/cifar10_input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/utils/layers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alexnet_ classification/utils/learning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/create_tf_record.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/create_tf_record.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset/create_tf_record_batchSize.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/create_tf_record_batchSize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tf_record_demo/dog_train.tfrecords" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vggnet_ classification/VGG16.py" beforeDir="false" afterPath="$PROJECT_DIR$/vggnet_classification/VGG16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vggnet_ classification/create_tfrecords.py" beforeDir="false" afterPath="$PROJECT_DIR$/vggnet_classification/create_tfrecords.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vggnet_ classification/my_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/vggnet_classification/my_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vggnet_ classification/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/vggnet_classification/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vggnet_ classification/test_image/animal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vggnet_classification/test_image/animal.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vggnet_ classification/test_image/flower.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vggnet_classification/test_image/flower.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vggnet_ classification/test_image/guitar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vggnet_classification/test_image/guitar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vggnet_ classification/test_image/houses.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/vggnet_classification/test_image/houses.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vggnet_ classification/tf_record_demo04.py" beforeDir="false" afterPath="$PROJECT_DIR$/vggnet_classification/tf_record_demo04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vggnet_ classification/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/vggnet_classification/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vggnet_ classification/train_val.py" beforeDir="false" afterPath="$PROJECT_DIR$/vggnet_classification/train_val.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,56 +68,135 @@
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$InceptionNet.coverage" NAME="InceptionNet Coverage Results" MODIFIED="1533886761879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googlenet_classification" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$cifar_input.coverage" NAME="cifar_input Coverage Results" MODIFIED="1533526834492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cifar-10-cifar-100" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$AlexNet.coverage" NAME="AlexNet Coverage Results" MODIFIED="1533548696353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cifar-10-cifar-100" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$1_AlexNet.coverage" NAME="经典卷积神经网络1_AlexNet Coverage Results" MODIFIED="1533627859802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alexnet_ cifar" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$my_train4.coverage" NAME="my_train4 Coverage Results" MODIFIED="1551748768546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/verification_code" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$googlenet_v3.coverage" NAME="googlenet_v3 Coverage Results" MODIFIED="1533555751775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googlenet_classification" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$train_utils.coverage" NAME="train_utils Coverage Results" MODIFIED="1533628189071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alexnet_ classification" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$vgg_regression.coverage" NAME="vgg_regression Coverage Results" MODIFIED="1539221270731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow_models_nets" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$tf_record_demo04__1_.coverage" NAME="tf_record_demo04 (1) Coverage Results" MODIFIED="1533798920977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vggnet_ classification" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_labels_files.coverage" NAME="create_labels_files Coverage Results" MODIFIED="1533955881037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googlenet_classification" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$predict.coverage" NAME="predict Coverage Results" MODIFIED="1533805100729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alexnet_ classification" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$export_inference_graph.coverage" NAME="export_inference_graph Coverage Results" MODIFIED="1534489938283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googlenet_classification" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_tfrecords.coverage" NAME="create_tfrecords Coverage Results" MODIFIED="1533275297131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vgg_net" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$alexnet.coverage" NAME="alexnet Coverage Results" MODIFIED="1533288998208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alexnet_ classification" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1533287095135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vgg_net_ classification" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$vgg_predict.coverage" NAME="vgg_predict Coverage Results" MODIFIED="1539656048067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow_models_nets" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$my_net_l2.coverage" NAME="my_net_l2 Coverage Results" MODIFIED="1551772165817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_net" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$read_config.coverage" NAME="read_config Coverage Results" MODIFIED="1542107338326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolo_v3_tf/utils" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$tf_read_images.coverage" NAME="tf_read_images Coverage Results" MODIFIED="1539949158073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets_regression" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_tf_record__2_.coverage" NAME="create_tf_record (2) Coverage Results" MODIFIED="1533807564491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf_record_demo" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$vgg_test.coverage" NAME="vgg_test Coverage Results" MODIFIED="1534232365358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/slim" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_tfrecords2.coverage" NAME="create_tfrecords2 Coverage Results" MODIFIED="1532665177745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vgg_net" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$test_files__1_.coverage" NAME="test_files (1) Coverage Results" MODIFIED="1533544967002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf_record_demo" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_faked_data.coverage" NAME="create_faked_data Coverage Results" MODIFIED="1534300750290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/slim" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$multi_label_OCR.coverage" NAME="multi_label_OCR Coverage Results" MODIFIED="1551440488023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/multi_label_net" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$alexnet_ava_regression.coverage" NAME="alexnet_ava_regression Coverage Results" MODIFIED="1539955340138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets_regression" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$net_reg.coverage" NAME="net_reg Coverage Results" MODIFIED="1542967108870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_net" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$my_slim_net_reg.coverage" NAME="my_slim_net_reg Coverage Results" MODIFIED="1551427244597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_net" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$gen_images_labels.coverage" NAME="gen_images_labels Coverage Results" MODIFIED="1532663305017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vgg_net" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$test_files.coverage" NAME="test_files Coverage Results" MODIFIED="1533535365119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cifar-10-cifar-100" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$3_InceptionNet.coverage" NAME="经典卷积神经网络3_InceptionNet Coverage Results" MODIFIED="1533800765706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googlenet_classification" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$test.coverage" NAME="test Coverage Results" MODIFIED="1533287840286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vgg_net_ classification" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$train.coverage" NAME="train Coverage Results" MODIFIED="1533632692158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alexnet_ classification" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$train.coverage" NAME="train Coverage Results" MODIFIED="1542119686675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolo_v3_tf" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_dataset.coverage" NAME="create_dataset Coverage Results" MODIFIED="1551697077915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/verification_code/utils" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$alexnet_regression_predict.coverage" NAME="alexnet_regression_predict Coverage Results" MODIFIED="1540017192117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets_regression" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$inception_v3.coverage" NAME="inception_v3 Coverage Results" MODIFIED="1539946521881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow_models_nets/slim/nets" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$alexnet_train.coverage" NAME="alexnet_train Coverage Results" MODIFIED="1533553172037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alexnet_ classification" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$convnets_test.coverage" NAME="convnets_test Coverage Results" MODIFIED="1533546735157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cifar-10-cifar-100" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$common_shapes.coverage" NAME="common_shapes Coverage Results" MODIFIED="1533712922520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/envs/tensorflow-py27/lib/python2.7/site-packages/tensorflow/python/framework" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$alexnet_regression02.coverage" NAME="alexnet_regression02 Coverage Results" MODIFIED="1539669555323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets_regression" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_tf_record.coverage" NAME="create_tf_record Coverage Results" MODIFIED="1539774658927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf_record_demo" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_tfrecord.coverage" NAME="create_tfrecord Coverage Results" MODIFIED="1533803449562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf_record_demo" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_tf_record_batchSize.coverage" NAME="create_tf_record_batchSize Coverage Results" MODIFIED="1539692567325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$inception_v3_train_val.coverage" NAME="inception_v3_train_val Coverage Results" MODIFIED="1539946680880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow_models_nets" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$1_AlexNet.coverage" NAME="经典卷积神经网络1_AlexNet Coverage Results" MODIFIED="1533627859802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alexnet_ cifar" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1551688066516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/verification_code/utils" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$train_utils.coverage" NAME="train_utils Coverage Results" MODIFIED="1533628189071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alexnet_ classification" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_labels_files.coverage" NAME="create_labels_files Coverage Results" MODIFIED="1533955881037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googlenet_classification" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$predict.coverage" NAME="predict Coverage Results" MODIFIED="1551857484746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/verification_code" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$mobilenet_train_val.coverage" NAME="mobilenet_train_val Coverage Results" MODIFIED="1539949611788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow_models_nets" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_tfrecords.coverage" NAME="create_tfrecords Coverage Results" MODIFIED="1533275297131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vgg_net" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$eval.coverage" NAME="eval Coverage Results" MODIFIED="1542250489017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yolo_v3_tf" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$train_multilabel_cnn.coverage" NAME="train_multilabel_cnn Coverage Results" MODIFIED="1551856046244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/verification_code" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$alexnet.coverage" NAME="alexnet Coverage Results" MODIFIED="1533288998208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alexnet_ classification" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1533287095135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vgg_net_ classification" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$vgg_regression02.coverage" NAME="vgg_regression02 Coverage Results" MODIFIED="1539602075318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow_models_nets" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_tfrecords2.coverage" NAME="create_tfrecords2 Coverage Results" MODIFIED="1532665177745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vgg_net" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$test_files__1_.coverage" NAME="test_files (1) Coverage Results" MODIFIED="1533544967002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf_record_demo" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$alexnet_regression.coverage" NAME="alexnet_regression Coverage Results" MODIFIED="1539738938267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets_regression" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$my_net_predict.coverage" NAME="my_net_predict Coverage Results" MODIFIED="1540450759235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow_models_nets" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_tf_record_batchSize__1_.coverage" NAME="create_tf_record_batchSize (1) Coverage Results" MODIFIED="1539692476609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets_regression" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$alexnet_ava_regression_record.coverage" NAME="alexnet_ava_regression_record Coverage Results" MODIFIED="1539833451598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nets_regression" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$net_batch_norm.coverage" NAME="net_batch_norm Coverage Results" MODIFIED="1542976169016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_net" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_faked_data.coverage" NAME="create_faked_data Coverage Results" MODIFIED="1534300750290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/slim" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$vgg_train_val.coverage" NAME="vgg_train_val Coverage Results" MODIFIED="1539831432438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow_models_nets" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_tf_record_regression.coverage" NAME="create_tf_record_regression Coverage Results" MODIFIED="1539168477130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$tf_record_demo04__2_.coverage" NAME="tf_record_demo04 (2) Coverage Results" MODIFIED="1533781676293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alexnet_ classification" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$my_test.coverage" NAME="my_test Coverage Results" MODIFIED="1533176991007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vgg_net" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$tf_record_demo05.coverage" NAME="tf_record_demo05 Coverage Results" MODIFIED="1533543684974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf_record_demo" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$train_val.coverage" NAME="train_val Coverage Results" MODIFIED="1533885608500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googlenet_classification" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$alexnet_train.coverage" NAME="alexnet_train Coverage Results" MODIFIED="1533553172037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alexnet_ classification" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$convnets_test.coverage" NAME="convnets_test Coverage Results" MODIFIED="1533546735157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cifar-10-cifar-100" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$train_val.coverage" NAME="train_val Coverage Results" MODIFIED="1539169813213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/vggnet_regression" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$tf_record_demo04.coverage" NAME="tf_record_demo04 Coverage Results" MODIFIED="1533955690906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf_record_demo" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$1_AlexNet__1_.coverage" NAME="经典卷积神经网络1_AlexNet (1) Coverage Results" MODIFIED="1533522986318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alexnet_ cifar" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$common_shapes.coverage" NAME="common_shapes Coverage Results" MODIFIED="1533712922520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/envs/tensorflow-py27/lib/python2.7/site-packages/tensorflow/python/framework" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_tf_record.coverage" NAME="create_tf_record Coverage Results" MODIFIED="1533955829391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googlenet_classification" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_tfrecord.coverage" NAME="create_tfrecord Coverage Results" MODIFIED="1533803449562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf_record_demo" />
     <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$predict__1_.coverage" NAME="predict (1) Coverage Results" MODIFIED="1533874761381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/googlenet_classification" />
-    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_tf_record__1_.coverage" NAME="create_tf_record (1) Coverage Results" MODIFIED="1534328680581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf_record_demo" />
+    <SUITE FILE_PATH="coverage/tensorflow_learning_tutorials$create_tf_record__1_.coverage" NAME="create_tf_record (1) Coverage Results" MODIFIED="1539774723958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tensorflow_models_nets" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="export_inference_graph.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/googlenet_classification/export_inference_graph.py">
+      <file leaf-file-name="net.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/verification_code/net.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="34" column="61" lean-forward="true" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+            <state relative-caret-position="3400">
+              <caret line="201" selection-start-line="201" selection-end-line="201" />
+              <folding>
+                <element signature="e#174#197#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="saver.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow-cpu-py27/lib/python2.7/site-packages/tensorflow/python/training/saver.py">
+      <file leaf-file-name="my_slim_net_reg_bn_dataset.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_net/my_slim_net_reg_bn_dataset.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="1925" selection-start-line="1925" selection-end-line="1925" />
+            <state relative-caret-position="2210">
+              <caret line="134" selection-start-line="134" selection-end-line="135" selection-end-column="81" />
+              <folding>
+                <element signature="e#14#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resnet_v2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensorflow_models_nets/slim/nets/resnet_v2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3383">
+              <caret line="205" column="11" selection-start-line="205" selection-start-column="8" selection-end-line="205" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train_multilabel_cnn.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/verification_code/train_multilabel_cnn.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="49" column="12" selection-start-line="49" selection-end-line="50" />
+              <folding>
+                <element signature="e#175#193#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dataset.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/verification_code/utils/dataset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+              <folding>
+                <element signature="e#176#199#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="predict.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/verification_code/predict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="60" column="83" selection-start-line="60" selection-start-column="83" selection-end-line="60" selection-end-column="83" />
+              <folding>
+                <element signature="e#193#216#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,64 +218,79 @@
       <find>optimizer</find>
       <find>batch_size</find>
       <find>data_format</find>
-      <find>is_training</find>
       <find>add</find>
+      <find>train_labels_batch</find>
+      <find>660808</find>
+      <find>convert_collection_to_dict</find>
+      <find>batch_norm</find>
+      <find>is_training</find>
+      <find>rand</find>
+      <find>cnnNet</find>
+      <find>output</find>
+      <find>self.pred</find>
+      <find>normalizer_params</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/tensorflow_models_nets</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/vgg_net_ classification/train.py" />
-        <option value="$PROJECT_DIR$/vgg_net_ classification/my_test.py" />
-        <option value="$PROJECT_DIR$/vgg_net_ classification/test.py" />
-        <option value="$PROJECT_DIR$/alexnet_ classification/test.py" />
-        <option value="$PROJECT_DIR$/alexnet_ classification/经典卷积神经网络1_AlexNet.py" />
-        <option value="$PROJECT_DIR$/cifar-10-100/cifar_input.py" />
-        <option value="$PROJECT_DIR$/cifar-10-100/convnets_test.py" />
-        <option value="$PROJECT_DIR$/cifar-10-cifar-100/test_files.py" />
-        <option value="$PROJECT_DIR$/tf_record_demo/tf_record_demo05.py" />
-        <option value="$PROJECT_DIR$/tf_record_demo/tf_record_batchSize.py" />
-        <option value="$PROJECT_DIR$/tf_record_demo/test_files.py" />
-        <option value="$PROJECT_DIR$/cifar-10-cifar-100/convnets_test.py" />
-        <option value="$PROJECT_DIR$/cifar-10-cifar-100/cifar_input.py" />
-        <option value="$PROJECT_DIR$/cifar-10-cifar-100/AlexNet.py" />
-        <option value="$PROJECT_DIR$/alexnet_ classification/alexnet_train.py" />
-        <option value="$PROJECT_DIR$/googlenet_classification/经典卷积神经网络3_InceptionNet.py" />
-        <option value="$PROJECT_DIR$/googlenet_cifar/经典卷积神经网络3_InceptionNet.py" />
-        <option value="$PROJECT_DIR$/alexnet_ classification/utils/learning.py" />
-        <option value="$PROJECT_DIR$/alexnet_ cifar/经典卷积神经网络1_AlexNet.py" />
-        <option value="$PROJECT_DIR$/alexnet_ classification/alexnet.py" />
-        <option value="$PROJECT_DIR$/alexnet_ cifar/AlexNet.py" />
-        <option value="$PROJECT_DIR$/alexnet_ classification/train.py" />
-        <option value="$PROJECT_DIR$/alexnet_ cifar/utils/learning.py" />
-        <option value="$PROJECT_DIR$/alexnet_ classification/train_utils.py" />
-        <option value="$PROJECT_DIR$/vggnet_ classification/tf_record_demo04.py" />
-        <option value="$PROJECT_DIR$/alexnet_ classification/tf_record_demo04.py" />
-        <option value="$PROJECT_DIR$/vggnet_ classification/train_val.py" />
-        <option value="$PROJECT_DIR$/tf_record_demo/tf_record_demo04.py" />
-        <option value="$PROJECT_DIR$/tf_record_demo/create_tfrecord.py" />
-        <option value="$PROJECT_DIR$/alexnet_ classification/create_tfrecord.py" />
-        <option value="$PROJECT_DIR$/alexnet_ classification/create_tf_record.py" />
-        <option value="$PROJECT_DIR$/googlenet_cifar/utils/learning.py" />
-        <option value="$PROJECT_DIR$/googlenet_classification/utils/learning.py" />
-        <option value="$PROJECT_DIR$/googlenet_classification/predict.py" />
-        <option value="$PROJECT_DIR$/googlenet_classification/InceptionNet.py" />
-        <option value="$PROJECT_DIR$/alexnet_ classification/predict.py" />
-        <option value="$PROJECT_DIR$/googlenet_classification/googlenet_v1_predict.py" />
-        <option value="$PROJECT_DIR$/googlenet_classification/googlenet_v1_train.py" />
-        <option value="$PROJECT_DIR$/googlenet_classification/learning.py" />
-        <option value="$PROJECT_DIR$/googlenet_classification/googlenet_v1.py" />
-        <option value="$PROJECT_DIR$/googlenet_classification/googlenet_v3.py" />
-        <option value="$PROJECT_DIR$/googlenet_classification/train_val.py" />
-        <option value="$PROJECT_DIR$/alexnet_ classification/train_val.py" />
-        <option value="$PROJECT_DIR$/googlenet_classification/create_tf_record.py" />
-        <option value="$PROJECT_DIR$/tf_record_demo/dataset/train.txt" />
-        <option value="$PROJECT_DIR$/alexnet_ classification/create_labels_files.py" />
-        <option value="$PROJECT_DIR$/googlenet_classification/create_labels_files.py" />
+        <option value="$PROJECT_DIR$/dataset/create_tf_record.py" />
         <option value="$PROJECT_DIR$/tf_record_demo/create_tf_record.py" />
-        <option value="$PROJECT_DIR$/slim/vgg_test.py" />
-        <option value="$PROJECT_DIR$/slim/create_faked_data.py" />
-        <option value="$PROJECT_DIR$/googlenet_classification/export_inference_graph.py" />
+        <option value="$PROJECT_DIR$/tensorflow_models_nets/vgg_regression02.py" />
+        <option value="$PROJECT_DIR$/tensorflow_models_nets/tf_read_images.py" />
+        <option value="$PROJECT_DIR$/dataset/dataset_regression/test_image.txt" />
+        <option value="$PROJECT_DIR$/tf_record_demo/tf_read_images.py" />
+        <option value="$PROJECT_DIR$/vggnet_regression/alexnet_regression.py" />
+        <option value="$PROJECT_DIR$/nets_regression/alexnet_regression02.py" />
+        <option value="$PROJECT_DIR$/dataset/ava_dataset/my_test.txt" />
+        <option value="$PROJECT_DIR$/dataset/create_tf_record_multi_label.py" />
+        <option value="$PROJECT_DIR$/dataset/create_tf_record_batchSize.py" />
+        <option value="$PROJECT_DIR$/nets_regression/create_tf_record_batchSize.py" />
+        <option value="$PROJECT_DIR$/nets_regression/create_tf_record_multi_label.py" />
+        <option value="$PROJECT_DIR$/nets_regression/utils/statistic.py" />
+        <option value="$PROJECT_DIR$/nets_regression/alexnet_regression.py" />
+        <option value="$PROJECT_DIR$/tensorflow_models_nets/slim/nets/vgg.py" />
+        <option value="$PROJECT_DIR$/tensorflow_models_nets/vgg_train_val.py" />
+        <option value="$PROJECT_DIR$/nets_regression/alexnet_ava_regression_record.py" />
+        <option value="$PROJECT_DIR$/tensorflow_models_nets/slim/nets/inception_v3.py" />
+        <option value="$PROJECT_DIR$/tensorflow_models_nets/inception_v3_train_val.py" />
+        <option value="$PROJECT_DIR$/nets_regression/alexnet_ava_regression.py" />
+        <option value="$PROJECT_DIR$/nets_regression/tf_read_images.py" />
+        <option value="$PROJECT_DIR$/tensorflow_models_nets/mobilenet_train_val.py" />
+        <option value="$PROJECT_DIR$/nets_regression/alexnet_regression_predict.py" />
+        <option value="$PROJECT_DIR$/yolo_v3_tf/config/config.yml" />
+        <option value="$PROJECT_DIR$/yolo_v3_tf/utils/read_config.py" />
+        <option value="$PROJECT_DIR$/yolo_v3_tf/train.py" />
+        <option value="$PROJECT_DIR$/yolo_v3_tf/config/eval_config.yml" />
+        <option value="$PROJECT_DIR$/yolo_v3_tf/models/scale1/checkpoint" />
+        <option value="$PROJECT_DIR$/tensorflow_models_nets/my_net_l2.py" />
+        <option value="$PROJECT_DIR$/tensorflow_models_nets/my_net_predict.py" />
+        <option value="$PROJECT_DIR$/my_net/utils.py" />
+        <option value="$PROJECT_DIR$/my_net/my_net_l2.py" />
+        <option value="$PROJECT_DIR$/tensorflow_models_nets/inception_v1_train_val.py" />
+        <option value="$PROJECT_DIR$/my_net/net_reg.py" />
+        <option value="$PROJECT_DIR$/my_net/net_batch_norm.py" />
+        <option value="$PROJECT_DIR$/my_net/my_slim_net_reg.py" />
+        <option value="$PROJECT_DIR$/my_net/my_slim_net_reg_bn.py" />
+        <option value="$PROJECT_DIR$/multi_label_net/create_dataset.py" />
+        <option value="$PROJECT_DIR$/multi_label_net/multi_label_OCR.py" />
+        <option value="$PROJECT_DIR$/verification_code/dataset/my_test.txt" />
+        <option value="$PROJECT_DIR$/verification_code/utils/file_processing.py" />
+        <option value="$PROJECT_DIR$/verification_code/my_train4.py" />
+        <option value="$PROJECT_DIR$/verification_code/utils/dataset.py" />
+        <option value="$PROJECT_DIR$/verification_code/my_train3.py" />
+        <option value="$PROJECT_DIR$/verification_code/utils/create_dataset.py" />
+        <option value="$PROJECT_DIR$/my_net/my_slim_net_reg_bn_dataset.py" />
+        <option value="$PROJECT_DIR$/verification_code/net.py" />
+        <option value="$PROJECT_DIR$/verification_code/train2.py" />
+        <option value="$PROJECT_DIR$/verification_code/train_multilabel_cnn.py" />
+        <option value="$PROJECT_DIR$/verification_code/predict.py" />
       </list>
     </option>
   </component>
@@ -155,17 +303,28 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="-31" />
-    <option name="width" value="640" />
-    <option name="height" value="487" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="2" />
+    <option name="y" value="53" />
+    <option name="width" value="1678" />
+    <option name="height" value="934" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="tensorflow-learning-tutorials" type="cbb8eebc:String" user="tensorflow-learning-tutorials" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,13 +335,7 @@
             <path>
               <item name="tensorflow-learning-tutorials" type="b2602c69:ProjectViewProjectNode" />
               <item name="tensorflow-learning-tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="googlenet_classification" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tensorflow-learning-tutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tensorflow-learning-tutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="googlenet_classification" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow_models_nets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -198,16 +351,18 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/verification_code" />
+      <recent name="$PROJECT_DIR$/verification_code/dataset" />
+      <recent name="$PROJECT_DIR$/my_net" />
+      <recent name="$PROJECT_DIR$/dataset/dataset/record" />
+      <recent name="$PROJECT_DIR$/my_net/utils" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/my_net" />
+      <recent name="$PROJECT_DIR$/nets_regression/test_image/image2" />
       <recent name="$PROJECT_DIR$/vgg_net_ classification/models" />
       <recent name="$PROJECT_DIR$/vgg_net" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/googlenet_classification" />
-      <recent name="$PROJECT_DIR$/alexnet_ classification" />
-      <recent name="$PROJECT_DIR$/tf_record_demo" />
-      <recent name="$PROJECT_DIR$/googlenet_classification/dataset/record" />
-      <recent name="$PROJECT_DIR$/vggnet_ classification" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -222,8 +377,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.export_inference_graph">
-    <configuration name="create_faked_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.predict">
+    <configuration name="create_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tensorflow-learning-tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,18 +386,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/slim" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/verification_code/utils" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/slim/create_faked_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/verification_code/utils/create_dataset.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="create_labels_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="my_net_l2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tensorflow-learning-tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,18 +405,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/googlenet_classification" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_net" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/googlenet_classification/create_labels_files.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_net/my_net_l2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="create_tf_record (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="my_train4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tensorflow-learning-tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -269,18 +424,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tf_record_demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/verification_code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tf_record_demo/create_tf_record.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/verification_code/train.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="export_inference_graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tensorflow-learning-tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,18 +443,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/googlenet_classification" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/verification_code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/googlenet_classification/export_inference_graph.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/verification_code/predict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="vgg_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="train_multilabel_cnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tensorflow-learning-tutorials" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -307,31 +462,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/slim" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/verification_code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/slim/vgg_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/verification_code/train_multilabel_cnn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.create_labels_files" />
-      <item itemvalue="Python.create_tf_record (1)" />
-      <item itemvalue="Python.vgg_test" />
-      <item itemvalue="Python.create_faked_data" />
-      <item itemvalue="Python.export_inference_graph" />
+      <item itemvalue="Python.create_dataset" />
+      <item itemvalue="Python.my_train4" />
+      <item itemvalue="Python.train_multilabel_cnn" />
+      <item itemvalue="Python.my_net_l2" />
+      <item itemvalue="Python.predict" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.export_inference_graph" />
-        <item itemvalue="Python.create_tf_record (1)" />
-        <item itemvalue="Python.create_faked_data" />
-        <item itemvalue="Python.vgg_test" />
-        <item itemvalue="Python.create_labels_files" />
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.train_multilabel_cnn" />
+        <item itemvalue="Python.my_net_l2" />
+        <item itemvalue="Python.my_train4" />
+        <item itemvalue="Python.create_dataset" />
       </list>
     </recent_temporary>
   </component>
@@ -349,53 +504,53 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1680" height="963" extended-state="6" />
+    <frame x="2" y="53" width="1678" height="934" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.25536993" side_tool="true" visible="true" weight="0.3721212" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19209039" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3299435" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17916666" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7446301" weight="0.3721212" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32969698" />
+      <window_info content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.20286396" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.1452381" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.088902146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.34915254" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7315036" weight="0.43515152" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32881355" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49821" weight="0.32848486" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17023809" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23571429" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34463277" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32979977" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.42824858" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30577576" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34881088" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3299435" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.17857143" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.16607143" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32881355" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -438,17 +593,17 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/vgg_net_ classification/tf_record_demo04.py</url>
+          <url />
           <line>12</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/vgg_net_ classification/tf_record_demo04.py</url>
+          <url />
           <line>109</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/vgg_net_ classification/tf_record_demo04.py</url>
+          <url />
           <line>78</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
@@ -458,22 +613,22 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/vgg_net_ classification/predict.py</url>
+          <url />
           <line>56</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/vgg_net_ classification/train.py</url>
+          <url />
           <line>75</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/vgg_net_ classification/train.py</url>
+          <url />
           <line>114</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/alexnet_ cifar/经典卷积神经网络1_AlexNet.py</url>
+          <url />
           <line>43</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
@@ -523,17 +678,17 @@
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/alexnet_ classification/train_val.py</url>
+          <url />
           <line>101</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/alexnet_ classification/train_val.py</url>
+          <url />
           <line>25</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/alexnet_ classification/train_val.py</url>
+          <url />
           <line>35</line>
           <option name="timeStamp" value="65" />
         </line-breakpoint>
@@ -543,12 +698,12 @@
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/alexnet_ classification/train_val.py</url>
+          <url />
           <line>65</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/alexnet_ classification/train_val.py</url>
+          <url />
           <line>137</line>
           <option name="timeStamp" value="70" />
         </line-breakpoint>
@@ -556,11 +711,6 @@
           <url>file://$PROJECT_DIR$/tf_record_demo/tf_record_demo04.py</url>
           <line>243</line>
           <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tf_record_demo/create_tf_record.py</url>
-          <line>280</line>
-          <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/googlenet_classification/create_tf_record.py</url>
@@ -577,6 +727,126 @@
           <line>37</line>
           <option name="timeStamp" value="78" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dataset/create_tf_record_multi_label.py</url>
+          <line>267</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tensorflow_models_nets/vgg_regression_predict.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tensorflow_models_nets/tf_read_images.py</url>
+          <line>160</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tensorflow_models_nets/tf_read_images.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/nets_regression/alexnet_ava_regression.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dataset/create_tf_record_batchSize.py</url>
+          <line>162</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tensorflow_models_nets/slim/nets/vgg.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tensorflow_models_nets/slim/nets/vgg.py</url>
+          <line>187</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tensorflow_models_nets/slim/nets/vgg.py</url>
+          <line>203</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_net/my_net_l2.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yolo_v3_tf/utils/read_config.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yolo_v3_tf/utils/read_config.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yolo_v3_tf/train.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yolo_v3_tf/train.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/yolo_v3_tf/train.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_net/my_net_l2.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_net/net_reg.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_net/net_reg.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_net/net_batch_norm.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multi_label_net/multi_label_OCR.py</url>
+          <line>364</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multi_label_net/multi_label_OCR.py</url>
+          <line>330</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multi_label_net/multi_label_OCR.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/verification_code/utils/file_processing.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/verification_code/predict.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -585,7 +855,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="79" />
+      <option name="time" value="170" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -603,357 +873,296 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/slim/create_faked_data.py">
+    <entry file="file://$PROJECT_DIR$/verification_code/predict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="901">
+          <caret line="60" column="83" selection-start-line="60" selection-start-column="83" selection-end-line="60" selection-end-column="83" />
+          <folding>
+            <element signature="e#193#216#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_classification/create_tf_record.py">
+    <entry file="file://$PROJECT_DIR$/yolo_v3_tf/eval.py" />
+    <entry file="file://$PROJECT_DIR$/yolo_v3_tf/config/eval_config.yml" />
+    <entry file="file://$PROJECT_DIR$/yolo_v3_tf/config/config.yml" />
+    <entry file="file://$PROJECT_DIR$/yolo_v3_tf/reader.py" />
+    <entry file="file://$PROJECT_DIR$/yolo_v3_tf/train2.py" />
+    <entry file="file://$PROJECT_DIR$/yolo_v3_tf/utils/read_config.py" />
+    <entry file="file://$PROJECT_DIR$/my_net/my_net_predict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2142">
-          <caret line="132" column="36" selection-start-line="132" selection-start-column="36" selection-end-line="132" selection-end-column="36" />
+        <state relative-caret-position="91">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/slim/nets/vgg_test.py">
+    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow-py35/lib/python3.5/site-packages/tensorflow/python/ops/random_ops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9248">
-          <caret line="550" column="23" selection-start-line="550" selection-start-column="23" selection-end-line="550" selection-end-column="23" />
+        <state relative-caret-position="146">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alexnet_ classification/create_tf_record.py">
+    <entry file="file://$PROJECT_DIR$/tensorflow_models_nets/slim/nets/mobilenet_v1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="265" column="41" selection-start-line="264" selection-start-column="2" selection-end-line="265" selection-end-column="41" />
+        <state relative-caret-position="265">
+          <caret line="361" column="40" selection-start-line="361" selection-start-column="30" selection-end-line="361" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow_models_nets/mobilenet_train_val.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="153" column="49" selection-start-line="153" selection-start-column="49" selection-end-line="153" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow_models_nets/inception_v1_train_val.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="149" column="53" selection-start-line="149" selection-start-column="53" selection-end-line="149" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow_models_nets/slim/nets/inception_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="328" column="50" selection-start-line="328" selection-start-column="50" selection-end-line="328" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow_models_nets/slim/nets/inception_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow-py35/lib/python3.5/site-packages/tensorflow/contrib/layers/python/layers/layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_net/net_reg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="e#210#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow_models_nets/inception_v3_train_val.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="189" column="26" selection-start-line="189" selection-start-column="26" selection-end-line="189" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/create_tf_record_multi_label.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1868">
+          <caret line="184" lean-forward="true" selection-start-line="184" selection-end-line="184" />
+          <folding>
+            <element signature="e#315#338#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dataset/create_tf_record.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4637" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow-py27/lib/python2.7/__future__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        <state relative-caret-position="-85">
+          <caret line="199" column="4" selection-start-line="199" selection-start-column="4" selection-end-line="199" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_classification/经典卷积神经网络3_InceptionNet.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="2" />
+    <entry file="file://$PROJECT_DIR$/dataset/create_tf_record_batchSize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="353" column="10" selection-start-line="353" selection-start-column="10" selection-end-line="353" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_classification/train.py" />
-    <entry file="file://$PROJECT_DIR$/alexnet_ classification/predict.py">
+    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow-py35/lib/python3.5/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="871">
-          <caret line="54" column="61" selection-start-line="54" selection-start-column="61" selection-end-line="54" selection-end-column="61" />
+        <state relative-caret-position="138">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alexnet_ classification/utils/layers.py">
+    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow-py35/lib/python3.5/random.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2159">
-          <caret line="131" selection-end-line="131" />
+        <state relative-caret-position="138">
+          <caret line="226" selection-start-line="226" selection-end-line="226" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alexnet_ classification/utils/learning.py">
+    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow-py35/lib/python3.5/site-packages/captcha/image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="88" column="21" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="21" />
+        <state relative-caret-position="2026">
+          <caret line="125" column="14" selection-start-line="125" selection-start-column="14" selection-end-line="125" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_classification/utils/learning.py" />
-    <entry file="file://$PROJECT_DIR$/googlenet_cifar/utils/learning.py">
+    <entry file="file://$PROJECT_DIR$/multi_label_net/multi_label_OCR.py" />
+    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow-py27/lib/python2.7/site-packages/sklearn/preprocessing/data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1717">
-          <caret line="101" column="22" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="22" />
+        <state relative-caret-position="920">
+          <caret line="1935" column="8" selection-start-line="1935" selection-start-column="8" selection-end-line="1935" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow-py27/lib/python2.7/site-packages/tensorflow/contrib/framework/python/ops/arg_scope.py">
+    <entry file="file://$PROJECT_DIR$/verification_code/train.py" />
+    <entry file="file://$PROJECT_DIR$/verification_code/utils/label.txt" />
+    <entry file="file://$PROJECT_DIR$/verification_code/my_train5.py" />
+    <entry file="file://$PROJECT_DIR$/verification_code/dataset/label.txt" />
+    <entry file="file://$PROJECT_DIR$/verification_code/dataset/my_test.txt" />
+    <entry file="file://$PROJECT_DIR$/verification_code/utils/file_processing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43">
-          <caret line="110" column="4" selection-start-line="110" selection-start-column="4" selection-end-line="110" selection-end-column="4" />
+        <state relative-caret-position="206">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/verification_code/onlyNumber.py" />
+    <entry file="file://$PROJECT_DIR$/verification_code/captchaIdentify.py" />
+    <entry file="file://$PROJECT_DIR$/my_net/net_batch_norm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="59" column="43" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="43" />
+          <folding>
+            <element signature="e#190#208#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow-py27/lib/python2.7/site-packages/tensorflow/contrib/layers/python/layers/layers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="437" column="26" selection-start-line="437" selection-start-column="15" selection-end-line="437" selection-end-column="26" />
+        <state relative-caret-position="359">
+          <caret line="921" column="16" selection-start-line="921" selection-start-column="16" selection-end-line="921" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_cifar/utils/layers.py">
+    <entry file="file://$PROJECT_DIR$/verification_code/dataset/test.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1428" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_classification/googlenet_v1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="823">
-          <caret line="57" column="85" selection-start-line="57" selection-start-column="82" selection-end-line="57" selection-end-column="85" />
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_classification/googlenet_v3.py">
+    <entry file="file://$PROJECT_DIR$/verification_code/utils/create_dataset.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="361" selection-start-line="361" selection-end-line="361" />
+        <state relative-caret-position="238">
+          <caret line="231" selection-start-line="231" selection-end-line="231" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_classification/googlenet_v1_predict.py">
+    <entry file="file://$PROJECT_DIR$/my_net/my_slim_net_reg_bn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="164">
+          <caret line="146" column="63" selection-start-line="146" selection-start-column="63" selection-end-line="146" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_classification/dataset/label.txt">
+    <entry file="file://$PROJECT_DIR$/my_net/my_net_l2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tf_record_demo/tf_record_demo04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3093">
-          <caret line="102" column="21" selection-start-line="102" selection-start-column="21" selection-end-line="102" selection-end-column="21" />
+        <state relative-caret-position="102">
+          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
           <folding>
-            <element signature="e#290#313#0" expanded="true" />
+            <element signature="e#14#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_classification/dataset/train.txt">
+    <entry file="file://$PROJECT_DIR$/verification_code/dataset/train.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="2492" column="16" lean-forward="true" selection-start-line="2492" selection-start-column="16" selection-end-line="2492" selection-end-column="16" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tf_record_demo/dataset/train.txt">
+    <entry file="file://$PROJECT_DIR$/tensorflow_models_nets/slim/nets/resnet_v1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="-612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow_models_nets/slim/nets/mobilenet_v1_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow_models_nets/slim/nets/inception_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="485" selection-start-line="485" selection-end-line="486" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alexnet_ classification/create_labels_files.py">
+    <entry file="file://$PROJECT_DIR$/verification_code/utils/dataset.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_classification/create_labels_files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tf_record_demo/create_tf_record_batchSize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2595">
-          <caret line="106" column="45" selection-start-line="106" selection-end-line="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vggnet_ classification/train_val.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2618">
-          <caret line="154" selection-start-line="154" selection-end-line="160" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_classification/经典卷积神经网络3_InceptionNet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="166" column="21" selection-start-line="166" selection-start-column="21" selection-end-line="166" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alexnet_ classification/train_val.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="86" column="74" selection-start-line="86" selection-end-line="87" />
+        <state relative-caret-position="1122">
+          <caret line="72" column="14" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
           <folding>
-            <element signature="e#15#38#0" expanded="true" />
+            <element signature="e#176#199#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vggnet_ classification/VGG16.py">
+    <entry file="file://$PROJECT_DIR$/tensorflow_models_nets/slim/nets/resnet_v2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2088" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_cifar/经典卷积神经网络3_InceptionNet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="179" column="54" selection-start-line="179" selection-start-column="31" selection-end-line="179" selection-end-column="54" />
+        <state relative-caret-position="3383">
+          <caret line="205" column="11" selection-start-line="205" selection-start-column="8" selection-end-line="205" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_classification/learning.py">
+    <entry file="file://$PROJECT_DIR$/my_net/my_slim_net_reg_bn_dataset.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1819">
-          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alexnet_ cifar/AlexNet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-201">
-          <caret line="120" column="13" selection-start-line="120" selection-start-column="4" selection-end-line="120" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alexnet_ cifar/经典卷积神经网络1_AlexNet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
+        <state relative-caret-position="2210">
+          <caret line="134" selection-start-line="134" selection-end-line="135" selection-end-column="81" />
           <folding>
-            <element signature="e#966#989#0" expanded="true" />
+            <element signature="e#14#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alexnet_ cifar/cifar_data_load.py">
+    <entry file="file://$PROJECT_DIR$/verification_code/train.py" />
+    <entry file="file://$PROJECT_DIR$/verification_code/train2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="69" column="4" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
+        <state relative-caret-position="279">
+          <caret line="60" column="45" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alexnet_ cifar/lenet5_predict.py">
+    <entry file="file://$PROJECT_DIR$/verification_code/train_multilabel_cnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alexnet_ classification/alexnet_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="82" selection-start-line="82" selection-end-line="83" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alexnet_ classification/alexnet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1017" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_classification/create_tf_record.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2142">
-          <caret line="132" column="36" selection-start-line="132" selection-start-column="36" selection-end-line="132" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow-py27/lib/python2.7/site-packages/tensorflow/python/ops/losses/losses_impl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9911">
-          <caret line="596" column="25" selection-start-line="596" selection-start-column="3" selection-end-line="596" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alexnet_ classification/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="86" column="90" selection-start-line="86" selection-start-column="27" selection-end-line="86" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slim/nets/vgg_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9248">
-          <caret line="550" column="23" selection-start-line="550" selection-start-column="23" selection-end-line="550" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slim/vgg_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="58" column="25" selection-start-line="32" selection-start-column="3" selection-end-line="58" selection-end-column="25" />
+        <state relative-caret-position="663">
+          <caret line="49" column="12" selection-start-line="49" selection-end-line="50" />
           <folding>
-            <element signature="e#187#210#0" expanded="true" />
+            <element signature="e#175#193#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tf_record_demo/create_tf_record.py">
+    <entry file="file://$PROJECT_DIR$/verification_code/net.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="206" column="9" selection-start-line="206" selection-start-column="9" selection-end-line="206" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slim/create_faked_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slim/nets/vgg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="144" column="22" selection-start-line="144" selection-start-column="11" selection-end-line="144" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow-py27/lib/python2.7/site-packages/tensorflow/contrib/slim/python/slim/learning.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="570" column="19" selection-start-line="570" selection-start-column="19" selection-end-line="570" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_classification/googlenet_v1_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="76" selection-start-line="76" selection-end-line="78" selection-end-column="36" />
+        <state relative-caret-position="3400">
+          <caret line="201" selection-start-line="201" selection-end-line="201" />
           <folding>
-            <element signature="e#219#256#0" expanded="true" />
+            <element signature="e#174#197#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_classification/train_val.py">
+    <entry file="file://$PROJECT_DIR$/verification_code/predict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="84" column="25" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="25" />
+        <state relative-caret-position="138">
+          <caret line="60" column="83" selection-start-line="60" selection-start-column="83" selection-end-line="60" selection-end-column="83" />
           <folding>
-            <element signature="e#15#38#0" expanded="true" />
+            <element signature="e#193#216#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/envs/tensorflow-cpu-py27/lib/python2.7/site-packages/tensorflow/python/training/saver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="1925" selection-start-line="1925" selection-end-line="1925" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/googlenet_classification/export_inference_graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="34" column="61" lean-forward="true" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
         </state>
       </provider>
     </entry>
